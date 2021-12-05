@@ -1,0 +1,21 @@
+{
+    "name": "peepoSmoke",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HexEYkj3cQ5f7UiZvU4na3zT53jcjUdLPoks9zYcg7uV",
+          "share": 100
+        }
+      ]
+    }
+  }
+
+  

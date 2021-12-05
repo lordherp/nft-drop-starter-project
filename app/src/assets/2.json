@@ -1,0 +1,19 @@
+{
+    "name": "peepoCrySalute",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HexEYkj3cQ5f7UiZvU4na3zT53jcjUdLPoks9zYcg7uV",
+          "share": 100
+        }
+      ]
+    }
+  }

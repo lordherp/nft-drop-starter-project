@@ -1,9 +1,11 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: rgb(46, 44, 44);
   overflow: scroll;
   text-align: center;
   overflow: hidden;
+
+
 }
 
 .container {
@@ -15,6 +17,8 @@
   color: white;
   position: relative;
   /* background-color: #35aee2; */
+  background-image: url("assets/wallp.png");
+  background-size: cover;
 }
 
 .authed-container {
@@ -65,8 +69,9 @@
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
-  background-size: 200% 200%;
+  /* background: -webkit-linear-gradient(left, #4e44ce, #35aee2); */
+  background : #FF6700;
+  background-size: 100% 100%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
 }
